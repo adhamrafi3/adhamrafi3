@@ -6,23 +6,25 @@
 
 ---
 
-## 🎓 Education
+## Education
 - **BSc Computer Science & Engineering** (AI & Computing) - NSU, Dhaka | 2021-2025 | **CGPA: 3.76**
 - **HSC** - Dhaka College | 2020
 - **SSC** - Ideal School and College | 2018
 
-## 💼 Experience
+## Experience
 - **Teaching Assistant** - Dept. of Mathematics & Physics, NSU | Jan 2025-Present
 - **AI Engineer & Researcher** - Team Atlas (Robotics) | 2018-Present
 
-## 🚀 Featured Projects
-- **Australian Rover Challenge (ARC)** - Mars Rover | SolidWorks, ROS, Embedded C
+## Featured Projects
 - **ADHD Detection & Therapy Chatbot** - ML/LLM predictor | BERT, Streamlit
+- - **Gym Mental Health Analyzer** - Wellness Chatbot | NLP, ML
+- **Australian Rover Challenge (ARC)** - Mars Rover | SolidWorks, ROS, Embedded C
 - **OpenSetWaste Detection** - Waste Classification | GCN, EfficientNet
-- **Gym Mental Health Analyzer** - Wellness Chatbot | NLP, ML
+- ** Liner following bot + Robo race car** - Robotics | Arduino & sensors
 
-## 🛠️ Skills
-**Languages:** Python, C++, Java, JavaScript | **ML/AI:** PyTorch, TensorFlow, Scikit-learn, OpenCV | **Web:** React, Node.js, MongoDB, MySQL | **Tools:** Git, SolidWorks, Streamlit
+
+## Skills
+**Languages:** Python, C++, Java, JavaScript | **ML/AI:** PyTorch, TensorFlow, Scikit-learn, OpenCV | **Web:** React, Node.js, MongoDB, MySQL | **Tools:** Git, SolidWorks, Streamlit | ** Design:** AutoCad, SktechUP, Canva, Draw.io
 
 ## 🏆 Achievements
 - 75% Merit Waiver Scholarship
