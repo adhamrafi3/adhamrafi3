@@ -1,35 +1,45 @@
 # Md. Adham Wahid
 
-## Introduction
-Welcome to my professional portfolio! I am Md. Adham Wahid, a passionate and dedicated individual with a strong background in software development and engineering.
+## Professional Portfolio
 
-## Education
-- **Bachelor of Science in Computer Science**
-  - University Name, Graduation Year
+### Education  
+- **Bachelor of Science in Computer Science**  
+  [Your University Name]  
+  Graduated: YYYY
 
-## Technical Skills
-- Programming Languages: Java, Python, JavaScript
-- Web Technologies: HTML, CSS, React.js
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, Jenkins
-- Frameworks: Spring, Django
+### Experience  
+- **Software Developer**  
+  [Your Company Name]  
+  MM/YYYY - Present  
+  - Description of duties and responsibilities.
+  
+- **Intern Software Engineer**  
+  [Your Previous Company Name]  
+  MM/YYYY - MM/YYYY  
+  - Description of duties and responsibilities.
 
-## Experience
-- **Software Developer**
-  - Company Name | Year - Year
-  - Responsibilities and achievements...
+### Projects  
+1. **Project Name**  
+   - Description of the project, technologies used, and your role.
+2. **Project Name**  
+   - Description of the project, technologies used, and your role.
 
-- **Intern**
-  - Company Name | Year - Year
-  - Responsibilities and achievements...
+### Skills  
+- Programming Languages: [list languages]  
+- Web Development: [list technologies]  
+- Databases: [list databases]  
+- Tools: [list tools]  
+- Other Relevant Skills  
 
-## Projects
-- **Project Title**
-  - Description of the project and technologies used.
+### Achievements  
+- [Achievement 1]  
+- [Achievement 2]  
+- [Achievement 3]  
 
-- **Another Project Title**
-  - Description of the project and technologies used.
+---  
+**Contact Information**:  
+- Email: [your email]  
+- LinkedIn: [your LinkedIn URL]  
+- GitHub: [your GitHub URL]  
 
-## Contact Information
-- Email: example@example.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**Date Updated: 2026-02-16 14:45:00 UTC**  
