@@ -1,37 +1,30 @@
-# Adham Rafi
+# Md. Adham Wahid
 
-## Title: Software Engineer
+**Machine Learning Engineer & Researcher** | North South University
 
-### Contact Information
-- **Phone:** +1234567890
-- **Email:** adham@example.com
+📧 adhamrafi3@gmail.com | 📱 +880-1971686649 | [GitHub](https://github.com/adhamrafi3) | [LinkedIn](https://linkedin.com/in/adhamrafi3)
 
-### Education Summary
-- **B.S. in Computer Science**  
-  University of Technology (2020)
+---
 
-### Technical Skills
-- Programming Languages: Python, Java, JavaScript
-- Web Technologies: HTML, CSS, React
-- Databases: MySQL, MongoDB
+## 🎓 Education
+- **BSc Computer Science & Engineering** (AI & Computing) - NSU, Dhaka | 2021-2025 | **CGPA: 3.76**
+- **HSC** - Dhaka College | 2020
+- **SSC** - Ideal School and College | 2018
 
-### Key Projects  
-- **Project A:** A web application for managing tasks effectively.
-- **Project B:** A mobile app that helps users track their fitness goals.
-- **Project C:** An e-commerce website with real-time inventory management.
+## 💼 Experience
+- **Teaching Assistant** - Dept. of Mathematics & Physics, NSU | Jan 2025-Present
+- **AI Engineer & Researcher** - Team Atlas (Robotics) | 2018-Present
 
-### Experience Summary
-- **Software Engineer** at Tech Company (2021-Present) - Developed various features for the company's main product.
-- **Intern** at Startup (2020-2021) - Assisted in developing a web application.
+## 🚀 Featured Projects
+- **Australian Rover Challenge (ARC)** - Mars Rover | SolidWorks, ROS, Embedded C
+- **ADHD Detection & Therapy Chatbot** - ML/LLM predictor | BERT, Streamlit
+- **OpenSetWaste Detection** - Waste Classification | GCN, EfficientNet
+- **Gym Mental Health Analyzer** - Wellness Chatbot | NLP, ML
 
-### Achievements
-- ![Badge 1](https://img.shields.io/badge/Certified%20Developer-green)  
-- ![Badge 2](https://img.shields.io/badge/Best%20Project%20Award-blue)  
-- ![Badge 3](https://img.shields.io/badge/Top%20Contributor-orange)  
+## 🛠️ Skills
+**Languages:** Python, C++, Java, JavaScript | **ML/AI:** PyTorch, TensorFlow, Scikit-learn, OpenCV | **Web:** React, Node.js, MongoDB, MySQL | **Tools:** Git, SolidWorks, Streamlit
 
-### Additional Info
-- Open to collaboration and new opportunities!  
-
-## Links
-- [GitHub Profile](https://github.com/adhamrafi3)  
-- [LinkedIn Profile](https://linkedin.com/in/adhamrafi3)  
+## 🏆 Achievements
+- 75% Merit Waiver Scholarship
+- ARC 2024, WRC 2022, URC, IRDC Finalist
+- Multiple National Competition Champion
