@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer & Researcher** | North South University
 
-📧 adhamrafi3@gmail.com | 📱 +880-1971686649 | [GitHub](https://github.com/adhamrafi3) | [LinkedIn](https://linkedin.com/in/adhamrafi3)
+📧 adhamrafi3@gmail.com | 📱 +880-1971686649 | 🌐 [Portfolio](https://adhamwahid-portfolio.vercel.app) | [GitHub](https://github.com/adhamrafi3) | [LinkedIn](https://linkedin.com/in/adhamrafi3)
 
 ---
 
