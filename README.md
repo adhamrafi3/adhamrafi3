@@ -7,9 +7,9 @@
 ---
 
 ## Education
-- **BSc Computer Science & Engineering** (AI & Computing) - NSU, Dhaka | 2021-2025 | **CGPA: 3.76**
-- **HSC** - Dhaka College | 2020
-- **SSC** - Ideal School and College | 2018
+- **BSc Computer Science & Engineering** (AI & Computing) - NSU, Dhaka | 2021-2025 | **CGPA: 3.76/4.00**
+- **HSC** - Dhaka College | 2020 | **GPA: 5.00/5.00**
+- **SSC** - Ideal School and College | 2018 | **GPA: 5.00/5.00**
 
 ## Experience
 - **Teaching Assistant** - Dept. of Mathematics & Physics, NSU | Jan 2025-Present
