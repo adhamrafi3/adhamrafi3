@@ -1,45 +1,37 @@
-# Md. Adham Wahid
+# Adham Rafi
 
-## Professional Portfolio
+## Title: Software Engineer
 
-### Education  
-- **Bachelor of Science in Computer Science**  
-  [Your University Name]  
-  Graduated: YYYY
+### Contact Information
+- **Phone:** +1234567890
+- **Email:** adham@example.com
 
-### Experience  
-- **Software Developer**  
-  [Your Company Name]  
-  MM/YYYY - Present  
-  - Description of duties and responsibilities.
-  
-- **Intern Software Engineer**  
-  [Your Previous Company Name]  
-  MM/YYYY - MM/YYYY  
-  - Description of duties and responsibilities.
+### Education Summary
+- **B.S. in Computer Science**  
+  University of Technology (2020)
 
-### Projects  
-1. **Project Name**  
-   - Description of the project, technologies used, and your role.
-2. **Project Name**  
-   - Description of the project, technologies used, and your role.
+### Technical Skills
+- Programming Languages: Python, Java, JavaScript
+- Web Technologies: HTML, CSS, React
+- Databases: MySQL, MongoDB
 
-### Skills  
-- Programming Languages: [list languages]  
-- Web Development: [list technologies]  
-- Databases: [list databases]  
-- Tools: [list tools]  
-- Other Relevant Skills  
+### Key Projects  
+- **Project A:** A web application for managing tasks effectively.
+- **Project B:** A mobile app that helps users track their fitness goals.
+- **Project C:** An e-commerce website with real-time inventory management.
 
-### Achievements  
-- [Achievement 1]  
-- [Achievement 2]  
-- [Achievement 3]  
+### Experience Summary
+- **Software Engineer** at Tech Company (2021-Present) - Developed various features for the company's main product.
+- **Intern** at Startup (2020-2021) - Assisted in developing a web application.
 
----  
-**Contact Information**:  
-- Email: [your email]  
-- LinkedIn: [your LinkedIn URL]  
-- GitHub: [your GitHub URL]  
+### Achievements
+- ![Badge 1](https://img.shields.io/badge/Certified%20Developer-green)  
+- ![Badge 2](https://img.shields.io/badge/Best%20Project%20Award-blue)  
+- ![Badge 3](https://img.shields.io/badge/Top%20Contributor-orange)  
 
-**Date Updated: 2026-02-16 14:45:00 UTC**  
+### Additional Info
+- Open to collaboration and new opportunities!  
+
+## Links
+- [GitHub Profile](https://github.com/adhamrafi3)  
+- [LinkedIn Profile](https://linkedin.com/in/adhamrafi3)  
