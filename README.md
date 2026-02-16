@@ -17,7 +17,7 @@
 
 ## Featured Projects
 - **ADHD Detection & Therapy Chatbot** - ML/LLM predictor | BERT, Streamlit
-- - **Gym Mental Health Analyzer** - Wellness Chatbot | NLP, ML
+- **Gym Mental Health Analyzer** - Wellness Chatbot | NLP, ML
 - **Australian Rover Challenge (ARC)** - Mars Rover | SolidWorks, ROS, Embedded C
 - **OpenSetWaste Detection** - Waste Classification | GCN, EfficientNet
 - ** Liner following bot + Robo race car** - Robotics | Arduino & sensors
